@@ -1,0 +1,6 @@
+{
+  "name": "BMR & BMI Calculator",
+  "description": "A beautiful and professional BMR and BMI Calculator built with Jetpack Compose and Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
